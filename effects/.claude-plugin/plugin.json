@@ -1,0 +1,7 @@
+{
+  "name": "effects",
+  "version": "1.0.0",
+  "description": "Six video effects for your talking-head clips: carousel-spin, match-cut, glass-graph, phone-fan, led-sign, type-behind. One command, your own clip, MP4 out.",
+  "author": { "name": "Nihal" },
+  "keywords": ["video", "effects", "reels", "editing", "motion graphics"]
+}

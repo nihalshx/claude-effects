@@ -1,0 +1,14 @@
+{
+  "name": "nihal-effects",
+  "description": "Nihal's /effects plugin: six video effects for your talking-head clips.",
+  "owner": {
+    "name": "Nihal"
+  },
+  "plugins": [
+    {
+      "name": "effects",
+      "source": "./effects",
+      "description": "Six video effects for your talking-head clips. Type /effects and pick one."
+    }
+  ]
+}
