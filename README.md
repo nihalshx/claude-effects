@@ -29,7 +29,7 @@ Everything else installs automatically the first time you run it.
 Open Claude Code and run:
 
 ```
-/plugin marketplace add YOUR-GITHUB-USERNAME/claude-effects
+/plugin marketplace add nihalshx/claude-effects
 /plugin install effects@nihal-effects
 ```
 
